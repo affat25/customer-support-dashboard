@@ -1,2 +1,2 @@
 # Customer Support Dashboard
-Api powered dashboards with MongoDB,SMTP and Discord Webhook
+Api powered dashboards with MongoDB, SMTP and Discord Webhook.
